@@ -1,0 +1,12 @@
+[package]
+name = "my_parser_JLCHKSKP"
+version = "0.1.0"
+edition = "2021"
+licence = "MIT"
+description = "A brief description"
+
+[dependencies]
+peg = "0.8.4"
+
+
+
